@@ -1,7 +1,7 @@
-## Project 4:  Feature Selection and Model Tuning  - Credit card users churn prediction
+## Project 4:  Feature Selection, Model Selection and Tuning  - Credit card users churn prediction
 
-Build a classification model that helps the bank to improve its services so that customers do not renounce to their credit cards.
+To predict if a customer will leave the credit card services or not and the reason behind it
 
 ## Skills and Tools:
 
-Hyperparameter Tuning, Grid & Random Search, Model Evaluation, EDA, Business recommendations.
+Cross Validation, Up and Down Sampling, Regularization, Pipelines and Hyperparameter Tuning
