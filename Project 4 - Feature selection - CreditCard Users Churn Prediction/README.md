@@ -1,4 +1,4 @@
-## Project 4:  Feature Selection, Model Selection and Tuning  - Credit card users churn prediction
+## Project 4:  Feature Selection, Model Selection and Tuning  - Credit card churn prediction
 
 To predict if a customer will leave the credit card services or not and the reason behind it
 
